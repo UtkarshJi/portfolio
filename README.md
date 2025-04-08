@@ -20,7 +20,7 @@ This is where I showcase my work, projects, and creative experiments.
 
 ## 📫 Contact
 - GitHub: [@UtkarshJi](https://github.com/UtkarshJi)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/utk7-sharma/)
+- LinkedIn: [Utkarsh Sharma](https://www.linkedin.com/in/utk7-sharma/)
 - Email: utkarsh.devpro@gmail.com
 
 ---

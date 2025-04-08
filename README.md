@@ -9,19 +9,19 @@ This is where I showcase my work, projects, and creative experiments.
 - HTML/CSS
 - JavaScript
 
-## 📁 Features
+## 📁 Features (MORE TO COME!)
 - Fullscreen background with intro text
 - Responsive navbar with smooth links
 - Social media & profile icons
 - Sections for Projects, Art, Games, and more
 
 ## 🔗 Live Demo
-[View Website](https://your-portfolio-link.com)
+[View Website](https://your-portfolio-link.com) (IN PROGRESS)
 
 ## 📫 Contact
 - GitHub: [@UtkarshJi](https://github.com/UtkarshJi)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/utk7-sharma/)
+- Email: utkarsh.devpro@gmail.com
 
 ---
 

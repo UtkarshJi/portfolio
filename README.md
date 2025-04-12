@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website!  
 This is where I showcase my work, projects, and creative experiments.
+MORE UPDATES COMING SOON!!!!
 
 ## 🚀 Tech Stack
 - React.js
